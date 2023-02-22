@@ -9,7 +9,7 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [OskarKapica.pl](http://oskarkapica.pl)
 * ✉️  You can contact me at [kapicaoskar0@gmail.com](mailto:kapicaoskar0@gmail.com)
-* 🧠  I'm learning Angular and React Native
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  I love good music and reverse engineering
 
@@ -38,7 +38,17 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-Support Me
+<p align="left"> <a href="https://www.dev.to/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/kapicaoskar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kapicaoskar"><img src="https://github-readme-stats.vercel.app/api?username=kapicaoskar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kapicaoskar's GitHub stats" /></a>
+
+<a href="http://www.github.com/kapicaoskar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kapicaoskar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/kapicaoskar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapicaoskar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
 
 <a href="https://www.buymeacoffee.com/kapicaoskar0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
