@@ -10,7 +10,7 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [OskarKapica.pl](http://oskarkapica.pl)
 * ✉️  You can contact me at [kapicaoskar0@gmail.com](mailto:kapicaoskar0@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Svelte
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  I love good music and reverse engineering
 
