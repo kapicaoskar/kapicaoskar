@@ -58,3 +58,4 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 
 
 <a href="https://www.buymeacoffee.com/kapicaoskar0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
