@@ -13,11 +13,6 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  I love good music and reverse engineering
 
-### Top 3 of my projects
-* SocialBoosting - Web Developer
-* FiveSolutions - Lua and Web Developer
-* FivePay - Lua Developer
-
 
 
 ### Skills
