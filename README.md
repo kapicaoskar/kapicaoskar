@@ -14,7 +14,6 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * ⚡  I love good music and reverse engineering
 
 
-
 ### Skills
 
 <p align="left">
