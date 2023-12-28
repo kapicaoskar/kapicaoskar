@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oskar Kapica
 ====================================================================================================================================
 
+Who am I?
+------------------------------------------------------------------
+I am a FiveM script developer and I worked for the biggest polish servers and 2115 Music Label
+
 Web Developer | Script Developer | Phone Apps Developer | Designer
 ------------------------------------------------------------------
 
@@ -13,7 +17,19 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  I love good music and reverse engineering
 
-
+### I Worked for
+<a href="https://2115.pl" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189929583978487898/logo.png?ex=659ff348&is=658d7e48&hm=68cc07c6b014e52c0b772f2553bf6be5f6a06ae16f6d4647c413dc65e7176e9f&" width="36" height="36" alt="Git" /></a>
+<a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" /></a>
+<a href="https://fivecity.net" target="_blank" rel="noreferrer"><img src="https://fivecity.net/img/logo.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://exilerp.eu/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189931276451455036/exile-786d4efc.png?ex=659ff4dc&is=658d7fdc&hm=6cdbebc0d6cfd7ca26f28854b830ed9a4df866e96dab4a5bdcd437451fd01bcb&" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.com/invite/adrenalinarp" target="_blank" rel="noreferrer"><img src="https://indrop.eu/assets/img/adrenalinarp/logo.png?v=83AB5" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.com/invite/waitrp" target="_blank" rel="noreferrer"><img src="https://indrop.eu/assets/img/waitrp/logo.png?v=83AB5" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.gg/clowns" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/748183374241464330/71bcdc37690e56e7f5ca7eff630d6a2a.webp?size=240" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.com/invite/rp4u" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189937739920052234/a_cc95675bbaaa0d629c99b75d3d62df20__1_-removebg-preview.png?ex=659ffae1&is=658d85e1&hm=6d0bf3c584a5ac638012a893226d15f02987c89195ed79f8bec5a47375d481c1&" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.com/invite/nightside" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/967196037968187392/c0b9c0764bca2f6c2f00142fce8f0afc.webp?size=240" width="36" height="36" alt="Git2" /></a>
+<a href="https://social-boosting.pl" target="_blank" rel="noreferrer"><img src="https://social-boosting.net/_next/image?url=%2Flogo.webp&w=96&q=75" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.gg/aliusrp" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189938274060484738/afdcdecbfd1f76104c3fc003afbf1e96-removebg-preview.png?ex=659ffb60&is=658d8660&hm=5d689f160121671c527410091ac0cbbfcdddf745b1d76ec8b85a371df754ed75&" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.gg/theftrp" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/1055782494739370014/cb003060a0bb13823161c8906ff73d60.webp?size=240" width="36" height="36" alt="Git2" /></a>
 ### Skills
 
 
