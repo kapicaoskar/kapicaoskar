@@ -18,7 +18,7 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 * ⚡  I love good music and reverse engineering
 
 ### I Worked for
-<a href="https://2115.pl" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189929583978487898/logo.png?ex=659ff348&is=658d7e48&hm=68cc07c6b014e52c0b772f2553bf6be5f6a06ae16f6d4647c413dc65e7176e9f&" width="36" height="36" alt="Git" /></a>
+<a href="https://2115.pl" target="_blank" rel="noreferrer"><img src="https://lobuzkochanajbardziej.pl/wp-content/uploads/2024/06/2115_logo.png" width="80" height="36" alt="Git" /></a>
 <a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" /></a>
 <a href="https://fivecity.net" target="_blank" rel="noreferrer"><img src="https://fivecity.net/img/logo.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://exilerp.eu/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189931276451455036/exile-786d4efc.png?ex=659ff4dc&is=658d7fdc&hm=6cdbebc0d6cfd7ca26f28854b830ed9a4df866e96dab4a5bdcd437451fd01bcb&" width="36" height="36" alt="Git2" /></a>
