@@ -27,7 +27,7 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 <a href="https://discord.gg/clowns" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/MgvdxL1/logo-2.webp" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.com/invite/rp4u" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/YyVF70F/ff72093ea8640fa719194d71717adfe252122adb.png" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.com/invite/nightside" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/967196037968187392/c0b9c0764bca2f6c2f00142fce8f0afc.webp?size=240" width="36" height="36" alt="Git2" /></a>
-<a href="https://social-boosting.pl" target="_blank" rel="noreferrer"><img src="https://social-boosting.net/_next/image?url=%2Flogo.webp&w=96&q=75" width="36" height="36" alt="Git2" /></a>
+<a href="https://social-boosting.pl" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/MGT61qZ/e3330ba0223a97e0684433a65037b477-removebg-preview.png" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.gg/aliusrp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nfb2ZhT/680735478794efe7796cadf6a8b4551d-c5-100x100-1-removebg-preview.png" width="36" height="36" alt="Git2" /></a>
 ### Skills
 
