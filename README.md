@@ -22,7 +22,7 @@ Hi, I'm Oskar! I'm a script developer, web developer, and designer with a passio
 <a href="https://fivecity.net" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/bNyM0GNG/logo-1.png" width="65" height="36" alt="Git" /></a>
 <a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" /></a>
 <a href="https://exilerp.eu/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/RQgvC14/logo-3.png" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.com/invite/waitrp" target="_blank" rel="noreferrer"><img src="https://indrop.eu/assets/img/waitrp/logo.png?v=83AB5" width="36" height="36" alt="Git2" /></a>
+<a href="https://discord.com/invite/waitrp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/PMJXQpF/logo-1-wait.webp" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.com/invite/adrenalinarp" target="_blank" rel="noreferrer"><img src="https://indrop.eu/assets/img/adrenalinarp/logo.png?v=83AB5" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.gg/clowns" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/748183374241464330/71bcdc37690e56e7f5ca7eff630d6a2a.webp?size=240" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.com/invite/rp4u" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1189371311026343946/1189937739920052234/a_cc95675bbaaa0d629c99b75d3d62df20__1_-removebg-preview.png?ex=659ffae1&is=658d85e1&hm=6d0bf3c584a5ac638012a893226d15f02987c89195ed79f8bec5a47375d481c1&" width="36" height="36" alt="Git2" /></a>
