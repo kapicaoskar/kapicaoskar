@@ -10,9 +10,11 @@ In addition to my technical skills, I have a keen understanding of user experien
 ### Expanded Knowledge in Blockchain & Cybersecurity
 ------------------------------------------------------------------
 
-Over the past couple of years, I've significantly expanded my skills. I'm proficient in **Rust** and **Solidity**, and I've been working on various blockchain projects, gaining deep knowledge in decentralized applications, smart contracts, and blockchain security. I have hands-on experience in developing applications using **Rust** for performance-critical environments, and **Solidity** for smart contract development on Ethereum-based networks.
+Over the past couple of years, I've significantly expanded my skills. I'm proficient in Rust and Solidity, and I've been working on various blockchain projects, gaining deep knowledge in decentralized applications, smart contracts, and blockchain security. I have hands-on experience in developing applications using Rust for performance-critical environments, and Solidity for smart contract development on Ethereum-based networks.
 
-Additionally, I've been diving deep into **cybersecurity**. I specialize in identifying security vulnerabilities, performing penetration testing, and conducting security audits. I have experience using various tools and techniques to assess system and network security, as well as in-depth knowledge of cryptography, secure coding practices, and vulnerability management. I’m capable of finding and fixing security holes to help secure projects both in development and production.
+Additionally, I've been diving deep into cybersecurity. I specialize in identifying security vulnerabilities, performing penetration testing, and conducting security audits. I have experience using various tools and techniques to assess system and network security, as well as in-depth knowledge of cryptography, secure coding practices, and vulnerability management. I’m capable of finding and fixing security holes to help secure projects both in development and production.
+
+As part of my cybersecurity journey, I’ve participated in bug bounty programs for multiple organizations, where I've successfully identified vulnerabilities in production systems and helped organizations improve their security posture. I’m actively engaged in platforms like Hack The Box, where I continuously sharpen my skills in real-world penetration testing scenarios, learning new techniques, and tackling complex challenges in various environments. This hands-on experience has significantly strengthened my ability to assess and mitigate security risks in live applications and networks.
 
 ---
 
