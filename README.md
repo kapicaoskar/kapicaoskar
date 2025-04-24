@@ -7,7 +7,7 @@ I am a script developer, web developer, and designer with a passion for creating
 
 In addition to my technical skills, I have a keen understanding of user experience and am able to create engaging and intuitive designs that meet the needs of my users. Collaborating with other developers and designers is something that I enjoy, and I have a strong track record of successfully bringing complex projects to fruition. I'm committed to continuous learning and improvement, regularly seeking out new technologies and programming techniques to enhance my skills and expand my horizons. 
 
-### Expanded Knowledge in Blockchain & Cybersecurity
+### Expanded Knowledge in Blockchain & Cybersecurity 
 ------------------------------------------------------------------
 
 Over the past couple of years, I've significantly expanded my skills. I'm proficient in Rust and Solidity, and I've been working on various blockchain projects, gaining deep knowledge in decentralized applications, smart contracts, and blockchain security. I have hands-on experience in developing applications using Rust for performance-critical environments, and Solidity for smart contract development on Ethereum-based networks.
