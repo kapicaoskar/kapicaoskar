@@ -24,17 +24,13 @@ As part of my cybersecurity journey, I’ve participated in bug bounty programs 
 * ⚡  I love good music and reverse engineering
 
 ### I Worked for
-<a href="https://2115.pl" target="_blank" rel="noreferrer"><img src="https://lobuzkochanajbardziej.pl/wp-content/uploads/2024/06/2115_logo.png" width="80" height="36" alt="Git" /></a>
+<a href="https://2115.pl" target="_blank" rel="noreferrer"><img src="https://sklep.2115.pl/cdn/shop/files/2115_mini_WHITE_web.png?v=1738696600&width=90" width="46" height="46" alt="Git" /></a>
 <a href="https://fivecity.net" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/bNyM0GNG/logo-1.png" width="65" height="36" alt="Git" /></a>
 <a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" /></a>
 <a href="https://exilerp.eu/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/RQgvC14/logo-3.png" width="36" height="36" alt="Git2" /></a>
 <a href="https://discord.com/invite/waitrp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/PMJXQpF/logo-1-wait.webp" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.com/invite/adrenalinarp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/JsKTD1D/logo-1.webp" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.gg/clowns" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/MgvdxL1/logo-2.webp" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.com/invite/rp4u" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/YyVF70F/ff72093ea8640fa719194d71717adfe252122adb.png" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.com/invite/nightside" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/967196037968187392/c0b9c0764bca2f6c2f00142fce8f0afc.webp?size=240" width="36" height="36" alt="Git2" /></a>
-<a href="https://social-boosting.pl" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/MGT61qZ/e3330ba0223a97e0684433a65037b477-removebg-preview.png" width="36" height="36" alt="Git2" /></a>
-<a href="https://discord.gg/aliusrp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nfb2ZhT/680735478794efe7796cadf6a8b4551d-c5-100x100-1-removebg-preview.png" width="36" height="36" alt="Git2" /></a>
+
+
 
 ### Skills
 
